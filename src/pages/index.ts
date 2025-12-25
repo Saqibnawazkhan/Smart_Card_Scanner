@@ -1,0 +1,6 @@
+export * from './HomePage'
+export * from './ScanPage'
+export * from './ContactsPage'
+export * from './ContactDetailPage'
+export * from './LoginPage'
+export * from './RegisterPage'
